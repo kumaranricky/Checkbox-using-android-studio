@@ -1,4 +1,4 @@
-# Unit 4 Workshop2
+# Checkbox using android studio
 # To create an application and display the fruit name while clicking any three checkbox.Give input more than 6 fruit name in that select three fruit name.
 
 ## Aim:
